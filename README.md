@@ -2,6 +2,8 @@
 
 How to Use:
 - Unzip tar bal
+- (Optional) Create environment using python -m venv <directory>
+- pip install -r requirements.txt
 - python train.py
 - python test.py
 - python visualize.py
