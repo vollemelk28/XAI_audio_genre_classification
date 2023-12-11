@@ -1,10 +1,10 @@
 # XAI_audio_genre_classification
 
-How to Use:
-- Unzip tar bal
-- python train.py
-- python test.py
-- python visualize.py
+#How to Use:
+#- Unzip tar bal
+#- python train.py
+#- python test.py
+#- python visualize.py
 
   
 Software Requirements -> Requirements.txt
