@@ -14,8 +14,7 @@ Software Requirements -> Requirements.txt
 Open Source Code
 
 Hardware Requirements
-- Tested on Windows 11
-- Works on Linux Ubuntu
+- Tested on Windows 11, Windows 10 and Ubuntu 22.10
 
 Minimal hardware requirements
 
