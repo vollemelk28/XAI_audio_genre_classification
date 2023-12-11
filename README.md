@@ -1,6 +1,6 @@
 # XAI_audio_genre_classification
 
-#How to Use:
+How to Use:
 - Unzip tar bal
 - python train.py
 - python test.py
