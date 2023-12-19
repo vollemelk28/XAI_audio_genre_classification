@@ -18,8 +18,8 @@ plt.show()
 
 def validate(history):
     print("Val acc: ", max(history.history["val_accuracy"]))
-    pd.DataFrame(history.history).plot(figsize=(12,6))
-    plt.xlabel('Epochs')
+    pd.DataFrame(history.history).plot(figsize=(14,6))
+    plt.xlabel('# Epochs')
     plt.ylabel('Accuracy')
     plt.show()
 
@@ -30,7 +30,7 @@ validate(history)
 
 plt.plot(history.history['accuracy'], label='accuracy')
 plt.plot(history.history['val_accuracy'], label = 'val_accuracy')
-plt.xlabel('Epoch')
+plt.xlabel('Epochs')
 plt.ylabel('Accuracy')
 plt.ylim([0, 1])
 plt.legend(loc='lower right')
