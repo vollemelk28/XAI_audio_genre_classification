@@ -5,8 +5,8 @@ How to Use:
 - (Optional) Create environment using python -m venv <directory>
 - pip install -r requirements.txt
 - python train.py
-- python test.py
 - python visualize.py
+- - python explain.py
 
   
 Software Requirements -> Requirements.txt
