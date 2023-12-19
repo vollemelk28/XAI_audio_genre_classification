@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import time
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import LabelEncoder
 import tensorflow as tf
 from tensorflow import keras
 import pickle
