@@ -6,7 +6,7 @@ How to Use:
 - pip install -r requirements.txt
 - python train.py
 - python visualize.py
-- - python explain.py
+- python explain.py
 
   
 Software Requirements -> Requirements.txt
